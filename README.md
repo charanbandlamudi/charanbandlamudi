@@ -9,7 +9,7 @@
 ## 🧠 What I Work On
 
 - **ML & AI**: TensorFlow | PyTorch | Scikit-learn  
-- **Web Development**: React.js | Node.js | Express.js | MongoDB | MySQL  
+- **Web Development**: React.js | Node.js | MongoDB | MySQL  
 - **Key Projects**:
   - 🧬 *B-cell Epitope Prediction in Flavivirus Proteins*
   - 🎙️ *Speech Clarity Assessment in Viva Answers (MFCC, LPC, DCT)*
